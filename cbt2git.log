@@ -1,0 +1,6 @@
+2023-08-06 02:37:58.115112 - Initialized conversion of CBT273
+2023-08-06 02:37:58.146075 - Received CBT.V505.FILE273.PDS from FILE273.XMI 
+2023-08-06 02:37:58.148263 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE273.PDS, moved to PDS/$$$#DATE
+2023-08-06 02:37:58.149435 - Found #DOC.txt (text/plain) in CBT.V505.FILE273.PDS, moved to PDS/#DOC
+2023-08-06 02:37:58.150388 - Found @FILE273.txt (text/plain) in CBT.V505.FILE273.PDS, moved to PDS/@FILE273
+2023-08-06 02:37:58.151379 - Found SECSUB.txt (text/plain) in CBT.V505.FILE273.PDS, moved to PDS/SECSUB
